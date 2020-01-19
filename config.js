@@ -3,47 +3,39 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Helena Sutil',
+  subtitle:
+    'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  copyright: '© Todos os direitos reservados',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-138531025-1',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: 'Artigos',
+      path: '/',
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Sobre mim',
+      path: '/sobre',
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      label: 'Contato',
+      path: '/contato',
+    },
   ],
   author: {
-    name: 'John Doe',
+    name: 'Helena Sutil',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Tatuadora e empresária.',
     contacts: {
       email: '',
       facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
+      twitter: 'helotattoo',
       linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
+      instagram: 'helotattoo_',
       youtube: '',
-      soundcloud: '',
-    }
-  }
+    },
+  },
 };

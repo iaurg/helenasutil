@@ -111,7 +111,7 @@ exports[`CategoriesListTemplate renders correctly 1`] = `
           >
             <a
               className="contacts__list-item-link"
-              href="https://t.me/#"
+              href="#"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -155,7 +155,7 @@ exports[`CategoriesListTemplate renders correctly 1`] = `
           >
             <a
               className="contacts__list-item-link"
-              href="https://github.com/#"
+              href="#"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -199,7 +199,7 @@ exports[`CategoriesListTemplate renders correctly 1`] = `
           >
             <a
               className="contacts__list-item-link"
-              href="https://vk.com/#"
+              href="#"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -234,7 +234,7 @@ exports[`CategoriesListTemplate renders correctly 1`] = `
       <h1
         className="page__title"
       >
-        Categories
+        Categorias
       </h1>
       <div
         className="page__body"
@@ -242,7 +242,7 @@ exports[`CategoriesListTemplate renders correctly 1`] = `
         <ul>
           <li>
             <a
-              href="/category/test-0/"
+              href="/categoria/test-0/"
             >
               test_0
                (
@@ -252,7 +252,7 @@ exports[`CategoriesListTemplate renders correctly 1`] = `
           </li>
           <li>
             <a
-              href="/category/test-1/"
+              href="/categoria/test-1/"
             >
               test_1
                (

@@ -111,7 +111,7 @@ exports[`PageTemplate renders correctly 1`] = `
           >
             <a
               className="contacts__list-item-link"
-              href="https://t.me/#"
+              href="#"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -155,7 +155,7 @@ exports[`PageTemplate renders correctly 1`] = `
           >
             <a
               className="contacts__list-item-link"
-              href="https://github.com/#"
+              href="#"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -199,7 +199,7 @@ exports[`PageTemplate renders correctly 1`] = `
           >
             <a
               className="contacts__list-item-link"
-              href="https://vk.com/#"
+              href="#"
               rel="noopener noreferrer"
               target="_blank"
             >
