@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://affectionate-meninsky-31c3fd.netlify.com',
   pathPrefix: '/',
   title: 'Helena Sutil',
   subtitle:
