@@ -50,7 +50,6 @@ const createPages = async ({ graphql, actions }) => {
 
   _.each(edges, (edge) => {
     if (_.get(edge, 'node.frontmatter.template') === 'page') {
-      console.log(edge.node.fields.slug);
       createPage({
         path: edge.node.frontmatter.slug,
         component: path.resolve('./src/templates/page-template.js'),
