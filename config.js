@@ -31,7 +31,7 @@ module.exports = {
     bio: 'Tatuadora e empresária.',
     contacts: {
       email: '',
-      facebook: '#',
+      facebook: '',
       twitter: 'helotattoo',
       linkedin: '',
       instagram: 'helotattoo_',
