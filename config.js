@@ -1,15 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://affectionate-meninsky-31c3fd.netlify.com',
+  url: 'https://helenasutil.com',
   pathPrefix: '/',
   title: 'Helena Sutil',
-  subtitle:
-    'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Um blog sobre tatuagens.',
   copyright: '© Todos os direitos reservados',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-138531025-1',
+  googleAnalyticsId: 'UA-156418758-1',
   useKatex: false,
   menu: [
     {
@@ -33,7 +32,7 @@ module.exports = {
       email: '',
       facebook: '#',
       twitter: 'helotattoo',
-      linkedin: '#',
+      linkedin: '',
       instagram: 'helotattoo_',
       youtube: '',
     },
