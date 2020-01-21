@@ -4,7 +4,8 @@ module.exports = {
   url: 'https://helenasutil.com',
   pathPrefix: '/',
   title: 'Helena Sutil',
-  subtitle: 'Um blog sobre tatuagens.',
+  subtitle:
+    'Um blog sobre tatuagens. Aqui postarei curiosidades, técnicas, estilos, dicas e tudo que possa te ajudar a entender um pouco mais da tattoo e seus processos.',
   copyright: '© Todos os direitos reservados',
   disqusShortname: '',
   postsPerPage: 4,

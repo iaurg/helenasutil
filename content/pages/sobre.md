@@ -5,10 +5,6 @@ socialImage: "/media/image-2.jpg"
 slug: "sobre"
 ---
 
-Pexllentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Oii! Tudo bem? Me chamo Heloise Helena Sutil,tenho 21 anos, sou tatuadora e tenho o objetivo de fazer com que mais pessoas conheçam e se apaixonem por esse mundo fantástico (e as vezes dolorido kk) da tatuagem! 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Nesse blog postarei sobre curiosidades,técnicas,estilos,dicas e tudo que possa te ajudar a entender um pouco mais da tattoo e seus processos.
