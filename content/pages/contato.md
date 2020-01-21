@@ -2,6 +2,7 @@
 title: "Contact me"
 template: "page"
 socialImage: "/media/image-4.jpg"
+slug: "contato"
 ---
 
 Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
