@@ -2,7 +2,7 @@
 template: post
 title: Significado das Tatuagens
 slug: significado-das-tatuagens
-draft: true
+draft: false
 date: 2020-01-21T00:15:42.669Z
 description: >-
   Será que todas as tatuagens têm significado? Se sim, o que pode ser? Aqui
