@@ -13,7 +13,7 @@ tags:
   - tatuagens
   - significado
 ---
-[20:17, 20/01/2020] Amelmor 🍯 💕❤🦋: Você já imaginou qual é o /significado por trás das tatuagens/? Bom, hoje é seu dia de sorte! Aqui está um guia prático para te ajudar a “ler” os significados tradicionais de cada tattoo. Claro que cada pessoa tem seu /significado pessoal para cada tatuagem/, ou seja, considere esse post como uma orientação na hora de interpretar uma tattoo! 
+Você já imaginou qual é o **significado por trás das tatuagens**? Bom, hoje é seu dia de sorte! Aqui está um guia prático para te ajudar a “ler” os significados tradicionais de cada tattoo. Claro que cada pessoa tem seu **significado pessoal para cada tatuagem**, ou seja, considere esse post como uma orientação na hora de interpretar uma tattoo! 
 
 ## Lobo:  
 Os lobos são historicamente conhecidos em diversas culturas. No Japão são chamados de “OKAMI” ou “Bom Deus”. Santuários são dedicados ao lobo pedindo para proteger as plantações e criações de javalis e veados. Os navajos (indígenas da América do Norte) veem o lobo como seres místicos, essencialmente humanos disfarçados. Na mitologia romana, um lobo era responsável por salvar as vidas de Rômulo e Remo - os fundadores de Roma - quando foram abandonados quando bebês. 
