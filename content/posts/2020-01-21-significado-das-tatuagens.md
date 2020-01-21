@@ -4,8 +4,7 @@ title: Significado das Tatuagens
 slug: significado-das-tatuagens
 draft: false
 date: 2020-01-21T00:15:42.669Z
-description: >-
-  Será que todas as tatuagens têm significado? Se sim, o que pode ser? Aqui
+description: Será que todas as tatuagens têm significado? Se sim, o que pode ser? Aqui
   estão alguns significados para matar sua curiosidade ou até mesmo te ajudar na
   hora de decidir sua nova tattoo!
 category: Curiosidades
@@ -43,4 +42,3 @@ Essas aves são usadas como símbolos nacionais em muitos países da Europa Orie
 Vistos como fonte de força, coragem e proteção. Conhecidos por suas habilidades de caça e ferocidade,essas criaturas comandantes fazem parte de lendas e mitos em todo o mundo. Para os antigos egípcios, eles eram usados ​​como divindades de guerra porque a leoa é conhecida por sua agressividade. Na religião hindu, Vishnu é uma das cinco principais formas de Deus e ele assume a forma de meio leão / meio homem. Os leões também são frequentemente vistos em frente aos palácios imperiais na China como símbolos de proteção. Significando coragem, força e proteção.
 
 Podemos ver que o significado da tatuagem varia muito de acordo com a cultura da pessoa que a tem! E é essa diferença de significados,crenças,costumes que fazem a tatuagem ser algo único, o desenho pode ser parecido mas dificilmente terá o mesmo significado para duas pessoas.  Afinal seu corpo é seu lar e pode ser decorado e pintado como você quiser com os significados que você escolher! ❤
-[20:20, 20/01/2020] Amelmor 🍯 💕❤🦋: Será que todas as tatuagens têm significado? Se sim, o que pode ser? Aqui estão alguns significados para matar sua curiosidade ou até mesmo te ajudar na hora de decidir sua nova tattoo!
