@@ -2,7 +2,7 @@
 template: post
 title: Projeto Meu Recomeço
 slug: meu-recomeco-tattoo
-draft: true
+draft: false
 date: 2020-01-23T02:32:43.948Z
 description: >-
   Cobrindo cicatrizes de pessoas que tiveram um passado difícil, o projeto Meu
