@@ -1,6 +1,6 @@
 ---
 template: post
-title: Tudo sobre o uso anestésicos na sua tattoo!
+title: Tudo sobre o uso de anestésicos na sua tattoo
 slug: anestesico-tatuagem
 draft: false
 date: 2020-01-27T17:55:14.855Z
