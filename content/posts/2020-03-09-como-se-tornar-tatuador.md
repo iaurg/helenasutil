@@ -30,8 +30,12 @@ Depois de trabalhar em um estúdio,resolvi que poderia trabalhar sozinha tendo m
 
 Em meio a tudo isso por problemas pessoais tive que sair da casa onde trabalhava e morava e me mudei para um lugar onde simplesmente NÃO DAVA pra ter um estúdio. Foi aí que comecei a trabalhar no Flor da pele tattooaria (link do insta delas [AQUII](https://www.instagram.com/flordapeletattooaria/)) e agora começaram outros aprendizados,trabalhar sozinha é fácil e trabalhar em equipe?! Estou aprendendo aos poucos! 
 
-Tudo isso aconteceu em menos de 1 ano, e se depender de mim vou evoluir sempre mais e mais! E é isso que um tatuador deve ter em mente,o estudo deve ser diário,assim como os treinos e leituras. Trabalhar com o que ama é recompensador e se você tem vontade de tatuar, comece HOJE! Só depende de VOCÊ,tatuar não é difícil mas demanda persistência e força de vontade,quanto mais estudar ,melhores serão os resultados! 
+Tudo isso aconteceu em menos de 1 ano, e se depender de mim vou evoluir sempre mais e mais! E é isso que um tatuador deve ter em mente,o estudo deve ser diário,assim como os treinos e leituras. 
 
-Obrigada a você que leu até aqui e se você deseja ser um tatuador de sucesso desejo a você muita persistência e bons estudos! 
+Trabalhar com o que ama é recompensador e se você tem vontade de tatuar, comece HOJE! Só depende de VOCÊ,tatuar não é difícil mas demanda persistência e força de vontade,quanto mais estudar ,melhores serão os resultados! 
 
-Beijo <3
+Não existe receita para ingressar nessa área porém o ingrediente principal é dedicação, você pode iniciar em casa e ir para um estúdio,pode fazer cursos,pode ser aprendiz de alguém que já atua na área.. o importante é estar sempre atento as oportunidades e não perder o foco!
+
+Obrigada a você que leu até aqui e se pretende ser um tatuador de sucesso desejo muita persistência e bons estudos! Espero que minha história tenha te inspirado :) 
+
+Beijos <3
