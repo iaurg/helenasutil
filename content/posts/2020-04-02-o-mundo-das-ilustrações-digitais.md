@@ -2,7 +2,7 @@
 template: post
 title: O Mundo das Ilustrações Digitais
 slug: ilustração-digital
-draft: true
+draft: false
 date: 2020-04-02T17:17:13.668Z
 description: >-
   Descubra como o por quê iniciar suas aventuras pelo maravilhoso mundo das
@@ -56,6 +56,8 @@ No  começo fazer desenhos nessa plataforma foi bem difícil para mim por que eu
 Caso você precise de mais dicas sobre o app que eu falei posso fazer um vídeo em formato de aula para que eu passe meu conhecimento a vocês! 
 
 Qualquer dúvida, sugestão ou crítica pode me mandar mensagem no [instagram](https://www.instagram.com/helotattoo_/)! Você também pode me mandar sua ilustração para eu ver <3
+
+Vou deixar um vídeo de um ilustrador que eu admiro muito para que vocês possam ver o desenho sendo feito no photoshop.  É só clicar [aqui](https://www.youtube.com/watch?v=wrivyn8MEus)!
 
 Obrigada pela leitura,nos vemos na próxima semana! 
 
