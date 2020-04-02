@@ -2,7 +2,7 @@
 template: post
 title: O Mundo das Ilustrações Digitais
 slug: ilustração-digital
-draft: false
+draft: true
 date: 2020-04-02T17:17:13.668Z
 description: >-
   Descubra como o por quê iniciar suas aventuras pelo maravilhoso mundo das
